@@ -6,9 +6,8 @@
 ![JavaSc](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
-### About
 
-<p align="center">
+### <p align="center">
 <img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
@@ -30,6 +29,6 @@ A simple guessing game made in html, css and javascript, where you put a random 
 
 ---
 
- ### Developer
- [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
+### Developer
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
  
