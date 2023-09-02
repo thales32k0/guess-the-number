@@ -7,7 +7,7 @@
 
 ---
 
-### <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
