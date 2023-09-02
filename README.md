@@ -8,9 +8,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Under%20Development-orange" alt="Static Badge">
+<img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
-
 
 A simple guessing game made in html, css and javascript, where you put a random number from 0 to 100 to try to guess which number was generated. // Um joguinho simples de adivinhação feito em html, css e javascript, onde você coloca um número aleatório de 0 a 100 para tentar acertar qual número foi gerado.
 
